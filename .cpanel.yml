@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=sportv2.xorsoftbd.com
+    - /bin/cp -R * $DEPLOYPATH
