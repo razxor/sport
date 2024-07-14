@@ -1,6 +1,6 @@
 <?php
 // Path to your repository on your server
-$repo_dir = 'sportv3.xorsoftbd.com ';
+$repo_dir = 'sportv3.xorsoftbd.com';
 
 // Change to the repository directory
 chdir($repo_dir);
