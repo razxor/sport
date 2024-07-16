@@ -1,0 +1,1 @@
+New order: <?=$r['order_id']?>, Date: <?=DT($r['c_ts'])?>, Amount: <?=P($r['amount'])?>, Item: <?=hsc($r['item'])?>.
